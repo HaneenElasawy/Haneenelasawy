@@ -15,12 +15,11 @@
 ###
 
 <div align="left">
-  <a href="Haneenelasawy335@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="haneenelasawy335@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=haneenelasawy335&color=D14836&logoColor=red&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   <a href="Neno_elasawy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Neno_elasawy&color=7289DA&logoColor=&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
 </div>
 
