@@ -45,10 +45,6 @@ I love learning new tech through real projects — not just theory 😄
 
 ###
 
-###
-
-<p align="left">Languages and Tools:</p>
-
 
 <br clear="both">
 
