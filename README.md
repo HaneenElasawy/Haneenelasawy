@@ -1,18 +1,40 @@
-<h2 align="left">Hi 👋! My name is Haneen Elasawy</h2>
+<h1 align="center">Hi 👋, I'm Haneen Elasawy</h1>
 
-###
+<p align="center">
+  🚀 Open-Source Trainee @ ITI | Full-Stack Developer in Progress
+</p>
 
-<p align="left">🎯 My Goals</p>
+---
 
-###
+### 🌱 What I'm Learning
+- Java & OOP  
+- .NET Development  
+- Linux & Shell  
+- Databases (SQL Server / MySQL)
 
-<h3 align="left">Full-stack developer</h3>
+---
 
-###
+### 💻 Technologies & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,py,linux,mysql,html,css,js,git,github,vscode&theme=dark" />
+</p>
 
-<p align="left">• 🌱 I’m currently learning  .Net development<br><br> • 💬 Ask me about anything<br><br> • 📫 How to reach me:</p>
+---
 
-###
+### 🔥 What I'm Working On
+- Building console apps & small Java projects  
+- Strengthening Algorithms + Data Structures  
+- Creating Open-Source learning projects  
+- Preparing a clean GitHub portfolio
+
+---
+
+### 📫 How to reach me
+- **Email:** haneenelasawy33@gmail.com  
+- **Discord:** neno_elasawy  
+- **LinkedIn:** (Add your link)
+
+---
 
 <div align="left">
   <a href="haneenelasawy335@gmail.com" target="_blank">
@@ -22,6 +44,11 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Neno_elasawy&color=7289DA&logoColor=&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
 </div>
+
+ ### ⭐ Fun Fact  
+I love learning new tech through real projects — not just theory 😄  
+
+###
 
 ###
 
