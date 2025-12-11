@@ -38,6 +38,11 @@
   <a href="Neno_elasawy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Neno_elasawy&color=7289DA&logoColor=&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
+  
+ <a href="https://www.linkedin.com/in/haneenelasawy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Haneen%20Elasawy&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" />
+</a>
+
 </div>
 
  ### ⭐ Fun Fact  
